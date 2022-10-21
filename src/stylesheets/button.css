@@ -1,0 +1,24 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-family: 'Cousine', monospace;
+  font-weight: bold;
+  color: #232946;
+  border: none;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #b8c1ec;
+}
+
+.boton-clic {
+  background-color: #eebbc3;
+}
+
+.boton-reiniciar {
+  background-color: #e16162;
+}
